@@ -1,6 +1,5 @@
 # Maze Escape with Dijkstra's Algorithm
-<img width="287" alt="image" src="https://github.com/user-attachments/assets/d2e2f464-06a9-485b-8a20-5c1c2874a6a7">
-
+<img width="283" alt="image" src="https://github.com/user-attachments/assets/8754c11b-f922-4938-b749-2cd14e9e5de7">
 
 Maze Escape written by Emma Mitchell
 
